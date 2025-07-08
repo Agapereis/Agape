@@ -1,2 +1,2 @@
 # Ágape
-Aplicativo Ágape - base espiritual, bíblica, ministerial e comunitária
+Aplicativo Ágape - Comunidade dos que Amam
