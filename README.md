@@ -1,2 +1,2 @@
-# Projeto-Agape
+# Agape
 Aplicativo Ágape - base espiritual, bíblica, ministerial e comunitária
